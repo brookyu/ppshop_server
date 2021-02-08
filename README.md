@@ -33,13 +33,13 @@ const mysql = require('think-model-mysql');
 
 module.exports = {
     handle: mysql,
-    database: 'hiolabsDB',
+    database: 'ourshop_db',
     prefix: 'hiolabs_',
     encoding: 'utf8mb4',
     host: '127.0.0.1',
     port: '3306',
     user: 'root',
-    password: '123123', //你的密码
+    password: 'brook1226', //你的密码
     dateStrings: true
 };
 ```
