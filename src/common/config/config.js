@@ -14,7 +14,7 @@ module.exports = {
     // },
     weixin: {
         appid: 'wxc320e6056994506c', // 小程序 appid
-        secret: 'afee55e2d5cdd001a54a131a7fbc4532', // 小程序密钥
+        //secret: 'afee55e2d5cdd001a54a131a7fbc4532', // 小程序密钥
         mch_id: '1606424699', // 商户帐号ID
         partner_key: 'bKrdOqaosLv0lG5yLhbyZlzXmjiIk7qn', // 微信支付密钥
         notify_url: 'https://syc.wemakecrm.com/api/pay/notify' // 微信支付异步通知
