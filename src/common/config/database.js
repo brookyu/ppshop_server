@@ -6,7 +6,7 @@ module.exports = {
     prefix: 'hiolabs_',
     encoding: 'utf8mb4',
     host: '127.0.0.1',
-    port: '3317',
+    port: '3306',
     user: 'root',
     password: 'brook1226',
     dateStrings: true
