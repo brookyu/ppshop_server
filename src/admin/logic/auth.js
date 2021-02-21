@@ -1,3 +1,5 @@
+const { think } = require("thinkjs");
+
 module.exports = class extends think.Logic {
   loginAction() {
     this.allowMethods = 'post';
